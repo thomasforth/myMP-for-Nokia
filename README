@@ -1,0 +1,5 @@
+* Probably not good github technique but I'm still learning *
+
+Application logic is in javascript (basic.js and js/*.js) run from index.html as mobile web page.
+
+Can be installed on any symbian smartphone by zipping all files, changing *.zip to *.wgz and copying to phone.
