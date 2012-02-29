@@ -1,0 +1,18 @@
+/*
+ * Add your Stylesheet contents here
+ */
+ h5{margin:5px 0px 2px 0px;}
+ .bodyclass{font-size:small; color:White}
+ .NavigationButtonImage{width: 35px;height: auto;}  
+ .NavigationButtonImageCell{width:50px;} 
+ .NavigationButtonText{color:White;} 
+ .FormButtonText{font-size:small;color:White;}
+ .ContentPanelCaptionText {color:White;font-size:small;}
+ .FormButton {height:15px;} 
+ .issuetablehead{font-size:small;background-color:Black;height:20px;margin:0px 0px 0px 0px;} 
+ .issuetablecontent{font-size:small;background-color:Black;height:20px;margin:0px 0px 0px 0px;}
+ .ListView{background-color:Black;} 
+ .ListViewCaption{ background-color: Green;}
+ .mpname{font-size:small;margin:0px 0px 0px 0px}
+ .party{margin:0px 0px 0px 0px; font-style:italic; font-size:x-small}
+ .constituency{margin:0px 0px 0px 0px; font-size:xx-small}
